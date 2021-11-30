@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Обработка строк", "Обработка строк\Обработка строк.csproj", "{0C897953-2FDC-4E93-AA32-05B9B7A34BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Найти самое длинное слово", "Найти самое длинное слово\Найти самое длинное слово.csproj", "{CF868F5F-88D3-4EA2-839C-596EF6012ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание 6.2", "Задание 6.2\Задание 6.2.csproj", "{C30A4EF2-A7EA-45F3-AA42-2D791483A08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C897953-2FDC-4E93-AA32-05B9B7A34BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C897953-2FDC-4E93-AA32-05B9B7A34BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C897953-2FDC-4E93-AA32-05B9B7A34BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C897953-2FDC-4E93-AA32-05B9B7A34BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF868F5F-88D3-4EA2-839C-596EF6012ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF868F5F-88D3-4EA2-839C-596EF6012ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF868F5F-88D3-4EA2-839C-596EF6012ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF868F5F-88D3-4EA2-839C-596EF6012ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30A4EF2-A7EA-45F3-AA42-2D791483A08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30A4EF2-A7EA-45F3-AA42-2D791483A08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30A4EF2-A7EA-45F3-AA42-2D791483A08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30A4EF2-A7EA-45F3-AA42-2D791483A08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C074534-5E99-4ED4-BF89-5385E08F14E8}
+	EndGlobalSection
+EndGlobal
